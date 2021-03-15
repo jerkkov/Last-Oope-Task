@@ -46,4 +46,3 @@ The program was implemented in **Principles of Object-oriented programming** at 
 
 **Jerkko Viisteensaari**
 **Vjerkko@gmail.com**
-**430586**
